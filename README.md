@@ -6,7 +6,7 @@ Css кодстайл, немного правил.
 <!DOCTYPE html>
 ```
 2. Документ должен валидироваться validator.w3.org
-3. Порядок свойства в css должен соответствовать declaration order из https://github.com/necolas/idiomatic-css#declaration-order
+3. Порядок свойства в css должен соответствовать порядку свойств из https://netology-university.bitbucket.io/codestyle/css/#order
 - Позиционирование
 - Блочная модель
 - Типографика
